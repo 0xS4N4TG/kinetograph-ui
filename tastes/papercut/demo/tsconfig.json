@@ -1,0 +1,34 @@
+{
+  "extends": "../../../../kinetograph/tsconfig.base.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "paths": {
+      "remotion": [
+        "../../../../kinetograph/packages/core/dist/index.d.ts"
+      ],
+      "@remotion/layout-utils": [
+        "../../../../kinetograph/packages/core/dist/layout-utils.d.ts"
+      ],
+      "@remotion/captions": [
+        "../../../../kinetograph/packages/core/dist/captions.d.ts"
+      ],
+      "@remotion/transitions": [
+        "../../../../kinetograph/packages/core/dist/transitions/index.d.ts"
+      ],
+      "@remotion/transitions/*": [
+        "../../../../kinetograph/packages/core/dist/transitions/*"
+      ]
+    },
+    "lib": [
+      "es2022",
+      "dom", "dom.iterable"
+    ],
+    "verbatimModuleSyntax": false
+  },
+  "include": [
+    "*.ts",
+    "*.tsx"
+  ]
+}
