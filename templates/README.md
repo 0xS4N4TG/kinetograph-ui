@@ -11,7 +11,6 @@ Copy one, change the copy and the pictures, render it.
 | `grid-reel`, `film-intro`, `dostoevsky` | Documentary and history openers |
 | `inside` | The launch film and its component library wall |
 | `hexed-demo`, `kinetic-type-demo`, `vj-demo`, `plugin-ui-demo`, `paper-photo`, `match-cut`, `scrapline` | Demos of the plugins in `plugins/` |
-| `papercut-demo` | Demo of `tastes/papercut` |
 
 Each taste in `tastes/` also has a `demo` reel.
 
