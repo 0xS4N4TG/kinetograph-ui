@@ -1,4 +1,4 @@
-// The pop-art cut-in (a TouchDesigner look, from templates/cyberpunk-reel): footage of a person cuts to an anime poster
+// The pop-art cut-in: footage of a person cuts to an anime poster
 // of them. The person is a matte, the camera turned grey and flattened into anime tones (a Kuwahara filter), painted
 // in blue gradients with ink lines and yellow, orange and coral rim lines; behind them the camera as a halftone, 18
 // jagged rays from behind the chest, 188 low-poly shapes flying out (some in front), flames round the body in three

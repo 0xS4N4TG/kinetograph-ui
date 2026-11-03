@@ -31,7 +31,7 @@ These expect a Kinetograph checkout next to this repo (`../kinetograph`, built w
 
 ```sh
 ln -s ../kinetograph/node_modules node_modules   # once
-node ../kinetograph/packages/cli/dist/cli.js render templates/cyberpunk-reel/index.tsx -o templates/cyberpunk-reel/out/cyberpunk-reel.mp4
+node ../kinetograph/packages/cli/dist/cli.js render templates/word-flash/index.tsx -o templates/word-flash/out/word-flash.mp4
 ```
 
 `out/` and `reference/` are never committed. Some media needed by a few templates is not in the repo (rendered clips,

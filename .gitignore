@@ -40,3 +40,9 @@ BRIEF*.md
 # folders that only hold ignored reference material
 templates/change-reel/
 templates/text-flow/
+
+# templates kept off the public repo
+templates/cyberpunk-reel/
+templates/wish-reel/
+templates/lyric-reel/
+templates/looks-demo/
