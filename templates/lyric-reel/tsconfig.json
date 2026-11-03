@@ -1,0 +1,11 @@
+{
+  "extends": "../../../kinetograph/tsconfig.base.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "paths": {
+      "remotion": ["../../../kinetograph/packages/core/dist/index.d.ts"],
+      "@remotion/layout-utils": ["../../../kinetograph/packages/core/dist/layout-utils.d.ts"]
+    }
+  },
+  "include": ["*.ts", "*.tsx", "shots/*.tsx"]
+}

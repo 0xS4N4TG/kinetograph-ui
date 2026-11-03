@@ -1,0 +1,18 @@
+{
+  "extends": "../../../kinetograph/tsconfig.base.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "paths": {
+      "remotion": [
+        "../../../kinetograph/packages/core/dist/index.d.ts"
+      ]
+    }
+  },
+  "include": [
+    "index.tsx", "cams/*.ts", "lib.ts", "props3d.tsx", "street.tsx", "titles.tsx", "scenes.tsx", "walk.tsx", "style.tsx",
+
+
+
+    "google-fonts.d.ts"
+  ]
+}

@@ -1,0 +1,830 @@
+{
+"estimate": true,
+"words": [
+{
+"word": "In",
+"start": 0.25,
+"end": 0.414,
+"line": 1
+},
+{
+"word": "1893,",
+"start": 0.434,
+"end": 0.662,
+"line": 1
+},
+{
+"word": "Edison",
+"start": 0.762,
+"end": 1.054,
+"line": 1
+},
+{
+"word": "built",
+"start": 1.074,
+"end": 1.334,
+"line": 1
+},
+{
+"word": "the",
+"start": 1.354,
+"end": 1.55,
+"line": 1
+},
+{
+"word": "first",
+"start": 1.57,
+"end": 1.83,
+"line": 1
+},
+{
+"word": "film",
+"start": 1.85,
+"end": 2.078,
+"line": 1
+},
+{
+"word": "studio.",
+"start": 2.098,
+"end": 2.39,
+"line": 1
+},
+{
+"word": "The",
+"start": 2.61,
+"end": 2.806,
+"line": 1
+},
+{
+"word": "Black",
+"start": 2.826,
+"end": 3.086,
+"line": 1
+},
+{
+"word": "Maria.",
+"start": 3.106,
+"end": 3.366,
+"line": 1
+},
+{
+"word": "A",
+"start": 3.586,
+"end": 3.718,
+"line": 1
+},
+{
+"word": "black",
+"start": 3.738,
+"end": 3.998,
+"line": 1
+},
+{
+"word": "shed",
+"start": 4.018,
+"end": 4.246,
+"line": 1
+},
+{
+"word": "that",
+"start": 4.266,
+"end": 4.494,
+"line": 1
+},
+{
+"word": "turned",
+"start": 4.514,
+"end": 4.806,
+"line": 1
+},
+{
+"word": "to",
+"start": 4.826,
+"end": 4.99,
+"line": 1
+},
+{
+"word": "follow",
+"start": 5.01,
+"end": 5.302,
+"line": 1
+},
+{
+"word": "the",
+"start": 5.322,
+"end": 5.518,
+"line": 1
+},
+{
+"word": "sun.",
+"start": 5.538,
+"end": 5.734,
+"line": 1
+},
+{
+"word": "This",
+"start": 6.404,
+"end": 6.632,
+"line": 2
+},
+{
+"word": "is",
+"start": 6.652,
+"end": 6.816,
+"line": 2
+},
+{
+"word": "ours.",
+"start": 6.836,
+"end": 7.064,
+"line": 2
+},
+{
+"word": "Kinetograph",
+"start": 7.284,
+"end": 7.736,
+"line": 2
+},
+{
+"word": "Studio.",
+"start": 7.756,
+"end": 8.048,
+"line": 2
+},
+{
+"word": "It",
+"start": 8.268,
+"end": 8.432,
+"line": 2
+},
+{
+"word": "follows",
+"start": 8.452,
+"end": 8.776,
+"line": 2
+},
+{
+"word": "you.",
+"start": 8.796,
+"end": 8.992,
+"line": 2
+},
+{
+"word": "Ask",
+"start": 9.662,
+"end": 9.858,
+"line": 3
+},
+{
+"word": "for",
+"start": 9.878,
+"end": 10.074,
+"line": 3
+},
+{
+"word": "a",
+"start": 10.094,
+"end": 10.226,
+"line": 3
+},
+{
+"word": "chart,",
+"start": 10.246,
+"end": 10.506,
+"line": 3
+},
+{
+"word": "and",
+"start": 10.606,
+"end": 10.802,
+"line": 3
+},
+{
+"word": "the",
+"start": 10.822,
+"end": 11.018,
+"line": 3
+},
+{
+"word": "numbers",
+"start": 11.038,
+"end": 11.362,
+"line": 3
+},
+{
+"word": "tell",
+"start": 11.382,
+"end": 11.61,
+"line": 3
+},
+{
+"word": "a",
+"start": 11.63,
+"end": 11.762,
+"line": 3
+},
+{
+"word": "story.",
+"start": 11.782,
+"end": 12.042,
+"line": 3
+},
+{
+"word": "Ask",
+"start": 12.712,
+"end": 12.908,
+"line": 4
+},
+{
+"word": "for",
+"start": 12.928,
+"end": 13.124,
+"line": 4
+},
+{
+"word": "a",
+"start": 13.144,
+"end": 13.276,
+"line": 4
+},
+{
+"word": "place,",
+"start": 13.296,
+"end": 13.556,
+"line": 4
+},
+{
+"word": "and",
+"start": 13.656,
+"end": 13.852,
+"line": 4
+},
+{
+"word": "the",
+"start": 13.872,
+"end": 14.068,
+"line": 4
+},
+{
+"word": "camera",
+"start": 14.088,
+"end": 14.38,
+"line": 4
+},
+{
+"word": "dives",
+"start": 14.4,
+"end": 14.66,
+"line": 4
+},
+{
+"word": "in.",
+"start": 14.68,
+"end": 14.844,
+"line": 4
+},
+{
+"word": "A",
+"start": 15.514,
+"end": 15.646,
+"line": 5
+},
+{
+"word": "wall",
+"start": 15.666,
+"end": 15.894,
+"line": 5
+},
+{
+"word": "of",
+"start": 15.914,
+"end": 16.078,
+"line": 5
+},
+{
+"word": "your",
+"start": 16.098,
+"end": 16.326,
+"line": 5
+},
+{
+"word": "work.",
+"start": 16.346,
+"end": 16.574,
+"line": 5
+},
+{
+"word": "Your",
+"start": 16.794,
+"end": 17.022,
+"line": 5
+},
+{
+"word": "app,",
+"start": 17.042,
+"end": 17.238,
+"line": 5
+},
+{
+"word": "on",
+"start": 17.338,
+"end": 17.502,
+"line": 5
+},
+{
+"word": "every",
+"start": 17.522,
+"end": 17.782,
+"line": 5
+},
+{
+"word": "screen.",
+"start": 17.802,
+"end": 18.094,
+"line": 5
+},
+{
+"word": "Then",
+"start": 18.764,
+"end": 18.992,
+"line": 6
+},
+{
+"word": "plugins",
+"start": 19.012,
+"end": 19.336,
+"line": 6
+},
+{
+"word": "change",
+"start": 19.356,
+"end": 19.648,
+"line": 6
+},
+{
+"word": "the",
+"start": 19.668,
+"end": 19.864,
+"line": 6
+},
+{
+"word": "whole",
+"start": 19.884,
+"end": 20.144,
+"line": 6
+},
+{
+"word": "look.",
+"start": 20.164,
+"end": 20.392,
+"line": 6
+},
+{
+"word": "Hexed",
+"start": 21.062,
+"end": 21.322,
+"line": 7
+},
+{
+"word": "rolls",
+"start": 21.342,
+"end": 21.602,
+"line": 7
+},
+{
+"word": "a",
+"start": 21.622,
+"end": 21.754,
+"line": 7
+},
+{
+"word": "grade.",
+"start": 21.774,
+"end": 22.034,
+"line": 7
+},
+{
+"word": "Paper",
+"start": 22.254,
+"end": 22.514,
+"line": 7
+},
+{
+"word": "tears",
+"start": 22.534,
+"end": 22.794,
+"line": 7
+},
+{
+"word": "it",
+"start": 22.814,
+"end": 22.978,
+"line": 7
+},
+{
+"word": "out.",
+"start": 22.998,
+"end": 23.194,
+"line": 7
+},
+{
+"word": "VJ",
+"start": 23.414,
+"end": 23.578,
+"line": 7
+},
+{
+"word": "puts",
+"start": 23.598,
+"end": 23.826,
+"line": 7
+},
+{
+"word": "it",
+"start": 23.846,
+"end": 24.01,
+"line": 7
+},
+{
+"word": "on",
+"start": 24.03,
+"end": 24.194,
+"line": 7
+},
+{
+"word": "a",
+"start": 24.214,
+"end": 24.346,
+"line": 7
+},
+{
+"word": "screen.",
+"start": 24.366,
+"end": 24.658,
+"line": 7
+},
+{
+"word": "Brushes",
+"start": 24.878,
+"end": 25.202,
+"line": 7
+},
+{
+"word": "paint",
+"start": 25.222,
+"end": 25.482,
+"line": 7
+},
+{
+"word": "it",
+"start": 25.502,
+"end": 25.666,
+"line": 7
+},
+{
+"word": "by",
+"start": 25.686,
+"end": 25.85,
+"line": 7
+},
+{
+"word": "hand.",
+"start": 25.87,
+"end": 26.098,
+"line": 7
+},
+{
+"word": "And",
+"start": 26.318,
+"end": 26.514,
+"line": 7
+},
+{
+"word": "the",
+"start": 26.534,
+"end": 26.73,
+"line": 7
+},
+{
+"word": "words",
+"start": 26.75,
+"end": 27.01,
+"line": 7
+},
+{
+"word": "move",
+"start": 27.03,
+"end": 27.258,
+"line": 7
+},
+{
+"word": "with",
+"start": 27.278,
+"end": 27.506,
+"line": 7
+},
+{
+"word": "your",
+"start": 27.526,
+"end": 27.754,
+"line": 7
+},
+{
+"word": "voice.",
+"start": 27.774,
+"end": 28.034,
+"line": 7
+},
+{
+"word": "Talk",
+"start": 28.704,
+"end": 28.932,
+"line": 8
+},
+{
+"word": "to",
+"start": 28.952,
+"end": 29.116,
+"line": 8
+},
+{
+"word": "the",
+"start": 29.136,
+"end": 29.332,
+"line": 8
+},
+{
+"word": "agent.",
+"start": 29.352,
+"end": 29.612,
+"line": 8
+},
+{
+"word": "Mark",
+"start": 29.832,
+"end": 30.06,
+"line": 8
+},
+{
+"word": "the",
+"start": 30.08,
+"end": 30.276,
+"line": 8
+},
+{
+"word": "frame.",
+"start": 30.296,
+"end": 30.556,
+"line": 8
+},
+{
+"word": "Hear",
+"start": 30.776,
+"end": 31.004,
+"line": 8
+},
+{
+"word": "the",
+"start": 31.024,
+"end": 31.22,
+"line": 8
+},
+{
+"word": "cut.",
+"start": 31.24,
+"end": 31.436,
+"line": 8
+},
+{
+"word": "Tune",
+"start": 31.656,
+"end": 31.884,
+"line": 8
+},
+{
+"word": "every",
+"start": 31.904,
+"end": 32.164,
+"line": 8
+},
+{
+"word": "prop.",
+"start": 32.184,
+"end": 32.412,
+"line": 8
+},
+{
+"word": "Export.",
+"start": 32.632,
+"end": 32.924,
+"line": 8
+},
+{
+"word": "Still",
+"start": 33.594,
+"end": 33.854,
+"line": 9
+},
+{
+"word": "no",
+"start": 33.874,
+"end": 34.038,
+"line": 9
+},
+{
+"word": "browser.",
+"start": 34.058,
+"end": 34.382,
+"line": 9
+},
+{
+"word": "Every",
+"start": 34.602,
+"end": 34.862,
+"line": 9
+},
+{
+"word": "frame,",
+"start": 34.882,
+"end": 35.142,
+"line": 9
+},
+{
+"word": "straight",
+"start": 35.242,
+"end": 35.598,
+"line": 9
+},
+{
+"word": "on",
+"start": 35.618,
+"end": 35.782,
+"line": 9
+},
+{
+"word": "the",
+"start": 35.802,
+"end": 35.998,
+"line": 9
+},
+{
+"word": "GPU.",
+"start": 36.018,
+"end": 36.214,
+"line": 9
+},
+{
+"word": "Kinetograph",
+"start": 36.884,
+"end": 37.336,
+"line": 10
+},
+{
+"word": "zero",
+"start": 37.356,
+"end": 37.584,
+"line": 10
+},
+{
+"word": "point",
+"start": 37.604,
+"end": 37.864,
+"line": 10
+},
+{
+"word": "three.",
+"start": 37.884,
+"end": 38.144,
+"line": 10
+},
+{
+"word": "Motion",
+"start": 38.364,
+"end": 38.656,
+"line": 10
+},
+{
+"word": "pictures,",
+"start": 38.676,
+"end": 39.032,
+"line": 10
+},
+{
+"word": "written",
+"start": 39.132,
+"end": 39.456,
+"line": 10
+},
+{
+"word": "in",
+"start": 39.476,
+"end": 39.64,
+"line": 10
+},
+{
+"word": "code.",
+"start": 39.66,
+"end": 39.888,
+"line": 10
+},
+{
+"word": "Try",
+"start": 40.108,
+"end": 40.304,
+"line": 10
+},
+{
+"word": "it",
+"start": 40.324,
+"end": 40.488,
+"line": 10
+},
+{
+"word": "at",
+"start": 40.508,
+"end": 40.672,
+"line": 10
+},
+{
+"word": "kinetograph",
+"start": 40.692,
+"end": 41.144,
+"line": 10
+},
+{
+"word": "dot",
+"start": 41.164,
+"end": 41.36,
+"line": 10
+},
+{
+"word": "dev.",
+"start": 41.38,
+"end": 41.576,
+"line": 10
+}
+],
+"lines": [
+{
+"n": 1,
+"text": "In 1893, Edison built the first film studio. The Black Maria. A black shed that turned to follow the sun.",
+"start": 0.25,
+"end": 5.734
+},
+{
+"n": 2,
+"text": "This is ours. Kinetograph Studio. It follows you.",
+"start": 6.404,
+"end": 8.992
+},
+{
+"n": 3,
+"text": "Ask for a chart, and the numbers tell a story.",
+"start": 9.662,
+"end": 12.042
+},
+{
+"n": 4,
+"text": "Ask for a place, and the camera dives in.",
+"start": 12.712,
+"end": 14.844
+},
+{
+"n": 5,
+"text": "A wall of your work. Your app, on every screen.",
+"start": 15.514,
+"end": 18.094
+},
+{
+"n": 6,
+"text": "Then plugins change the whole look.",
+"start": 18.764,
+"end": 20.392
+},
+{
+"n": 7,
+"text": "Hexed rolls a grade. Paper tears it out. VJ puts it on a screen. Brushes paint it by hand. And the words move with your voice.",
+"start": 21.062,
+"end": 28.034
+},
+{
+"n": 8,
+"text": "Talk to the agent. Mark the frame. Hear the cut. Tune every prop. Export.",
+"start": 28.704,
+"end": 32.924
+},
+{
+"n": 9,
+"text": "Still no browser. Every frame, straight on the GPU.",
+"start": 33.594,
+"end": 36.214
+},
+{
+"n": 10,
+"text": "Kinetograph zero point three. Motion pictures, written in code. Try it at kinetograph dot dev.",
+"start": 36.884,
+"end": 41.576
+}
+],
+"duration": 44.246
+}
