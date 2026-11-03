@@ -1,0 +1,42 @@
+node_modules
+out/
+out-scratch/
+.playwright-mcp/
+components/_reference/
+reference/
+raw/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Texturelabs scans and copies cut from them: free to use in videos, not to redistribute as files
+tastes/archive/textures/film-scan.jpg
+tastes/collage/textures/page-patch.png
+tastes/collage/textures/label-*.png
+tastes/collage/textures/strip-paper.png
+tastes/print/demo/public/textures/paper-300.jpg
+tastes/print/demo/public/textures/dust.jpg
+
+# renders of the components made by worlds.tsx
+templates/inside/public/worlds/
+
+# the local source texture library (kept on disk, with its own index; not part of the repo)
+scans/
+
+# built on a named person's own reels and song, none of it ours to publish
+templates/mikiwho-reel/
+
+# clips cut from our own renders by templates/inside/tools/library-clips.sh
+templates/inside/public/library/
+
+# voice takes for the second launch film (personal recordings)
+templates/inside/public/vo/
+
+# working notes between sessions (files stay on disk)
+HANDOFF.md
+BRIEF*.md
+
+# folders that only hold ignored reference material
+templates/change-reel/
+templates/text-flow/

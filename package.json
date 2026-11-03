@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@kinetographdev/hexed": "file:plugins/hexed",
+    "@kinetographdev/kinetic-typography": "file:plugins/kinetic-typography",
+    "@kinetographdev/paper": "file:plugins/paper",
+    "@kinetographdev/vj": "file:plugins/vj"
+  }
+}
