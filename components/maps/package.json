@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "maplibre-gl": "^6.16.0"
+  },
+  "type": "module",
+  "private": true,
+  "name": "kinetograph-maps-components"
+}
