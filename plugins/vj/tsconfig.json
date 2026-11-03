@@ -1,0 +1,15 @@
+{
+  "extends": "../../../kinetograph/tsconfig.base.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "lib": [
+      "ES2023",
+      "DOM"
+    ]
+  },
+  "include": [
+    "studio/*.ts",
+    "src/*.ts",
+    "src/*.tsx"
+  ]
+}

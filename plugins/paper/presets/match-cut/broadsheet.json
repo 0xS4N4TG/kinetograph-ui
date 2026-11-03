@@ -1,0 +1,10 @@
+{
+  "layouts": ["pull", "italic", "kicker", "body", "display"],
+  "cutsPerSecond": 10,
+  "zoom": 1.5,
+  "blur": 7,
+  "smear": 1,
+  "streak": 8,
+  "crumple": 0.4,
+  "highlight": "#f6e04a"
+}

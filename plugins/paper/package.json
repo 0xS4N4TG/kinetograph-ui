@@ -1,0 +1,30 @@
+{
+  "name": "@kinetographdev/paper",
+  "version": "0.1.0",
+  "description": "Paper for Kinetograph: a paper material (creases, scans, grain) and effects made of it: a text match cut over printed, web and app-screen pages, photo cut-outs that fold open, and hand-drawn borders on torn paper",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "peerDependencies": {
+    "@kinetographdev/audio": "^0.2.0",
+    "@kinetographdev/core": "^0.2.0",
+    "react": "^18.0.0 || ^19.0.0",
+    "zod": "^4.0.0"
+  },
+  "kinetograph": {
+    "title": "Paper",
+    "description": "A paper material with creases, scans and grain, and effects made of it: a text match cut over printed, web and app-screen pages (optionally filmed off an LCD), folded cut-outs, and hand-drawn borders on torn paper (Scrapline).",
+    "icon": "./studio/icon.svg",
+    "components": [
+      "MatchCut",
+      "Paper",
+      "CutOut",
+      "FoldOut",
+      "Scrapline"
+    ],
+    "skill": "./SKILL.md",
+    "panel": "./studio/panel.ts"
+  }
+}

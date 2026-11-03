@@ -1,0 +1,29 @@
+{
+  "name": "@kinetographdev/kinetic-typography",
+  "version": "0.1.0",
+  "description": "Kinetic typography for Kinetograph: captions in fifteen ready-made styles (hooks with a big word, highlighter, typewriter, prism and more) with an accent and a readable shadow taken from the footage, and captions written on in many hands, hung off a tracked subject, and BoilStack, a three-word poster title that boils on twelves",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "peerDependencies": {
+    "@kinetographdev/core": "^0.2.0",
+    "react": "^18.0.0 || ^19.0.0",
+    "zod": "^4.0.0",
+    "@kinetographdev/p5-brush": "*",
+    "p5.brush": "^2.2.0"
+  },
+  "kinetograph": {
+    "title": "Kinetic typography",
+    "description": "Captions timed to the voice in fifteen ready-made styles: a big word set huge in a hook, highlighter, typewriter, text selection, shine, prism (difference) and more, each word moving in and out with bounce, flicker, shake and steps and an accent and a readable shadow taken from the footage. Also hand-written captions hung off a tracked subject.",
+    "icon": "./studio/icon.svg",
+    "components": [
+      "Captions",
+      "HandCaptions",
+      "BoilStack"
+    ],
+    "skill": "./SKILL.md",
+    "panel": "./studio/panel.ts"
+  }
+}

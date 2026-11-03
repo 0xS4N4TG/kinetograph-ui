@@ -1,0 +1,26 @@
+[package]
+name = "vj-matte"
+version = "0.1.0"
+edition = "2021"
+description = "Person mattes for any clip with Robust Video Matting, for @kinetographdev/vj's <PopArt> and anything else that takes a matte"
+license = "GPL-3.0-only"
+publish = false
+
+[dependencies]
+ort = "=2.0.0-rc.15"
+
+# the GPU (and on a Mac the neural engine) where ONNX Runtime can reach it; the CPU everywhere else
+[target.'cfg(target_os = "macos")'.dependencies]
+ort = { version = "=2.0.0-rc.15", features = ["coreml"] }
+
+[target.'cfg(target_os = "windows")'.dependencies]
+ort = { version = "=2.0.0-rc.15", features = ["directml"] }
+
+# Linux GPUs, one at a time (ONNX Runtime's prebuilt libraries come with one or the other): WebGPU over Vulkan for any
+# GPU, or CUDA for NVIDIA's (with CUDA 13 and cuDNN installed). Without either, Linux runs on the CPU.
+[features]
+webgpu = ["ort/webgpu"]
+cuda = ["ort/cuda"]
+
+[profile.release]
+lto = "thin"

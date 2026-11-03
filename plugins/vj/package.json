@@ -1,0 +1,27 @@
+{
+  "name": "@kinetographdev/vj",
+  "version": "0.1.0",
+  "description": "VJ effects for Kinetograph: screen and sensor looks (CRT, VHS, 1-bit, thermal, depth, subpixels), blob and point tracking overlays, detector-box fragments in a parallax fly-through, a halftone poster, and a pop-art cut to an anime poster of a person",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "peerDependencies": {
+    "@kinetographdev/core": "^0.2.0",
+    "react": "^18.0.0 || ^19.0.0",
+    "zod": "^4.0.0"
+  },
+  "kinetograph": {
+    "title": "VJ",
+    "description": "Screen and sensor looks (CRT, VHS, 1-bit, thermal, depth) and flash looks to cut on the beat, blob and point tracking overlays, detector-box fragments in a parallax fly-through, and a pop-art cut to an anime poster of a person.",
+    "icon": "./studio/icon.svg",
+    "components": [
+      "PopArt",
+      "Blobs",
+      "Fragments"
+    ],
+    "skill": "./SKILL.md",
+    "panel": "./studio/panel.ts"
+  }
+}
